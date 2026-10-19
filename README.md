@@ -71,7 +71,3 @@ Planned areas to explore as my learning progresses:
 - Building a practical ETL pipeline
 - Logging, testing, and workflow automation
 These are future learning goals, not claims that all of these topics are already implemented in this repository.
-Connect
-I'm documenting my learning journey as I work toward a career in the data field.
-- GitHub: Add your GitHub profile or repository link here.
-- LinkedIn: Add your LinkedIn profile link here.
